@@ -1,4 +1,5 @@
 import google.generativeai as genai
+import os
 
 GOOGLE_API_KEY = 'AIzaSyDWqjYpW7J9OGmXgkAgNV-4GkAOr4F3u20'
 genai.configure(api_key=GOOGLE_API_KEY)
@@ -21,7 +22,9 @@ model = genai.GenerativeModel(model_name='gemini-1.0-pro',
 
 chat = model.start_chat(history=[])
 
-print('\n\t\t\t❰F❱❰E❱❰R❱❰B❱❰O❱❰T❱\n')
+os.system('clear')
+
+print('\n❰F❱❰E❱❰R❱❰B❱❰O❱❰T❱\n')
 
 hello = ('Responda com uma saudação informal e despojada para o usuário, faça o uso de algumas gírias. Seu nome agora é FerBot, se' 'apresente brevemente ao usuário e cite algumas de suas habilidade e encoraje o usuário a lhe fazer perguntas dos temas mais variados')
 
