@@ -1,5 +1,5 @@
 #!/bin/bash
 
-ln -s ~/ferbot/dist/ferbot/ ~/.local/bin
+ln -s ~/ferbot/dist/ferbot/ferbot ~/.local/bin
 
 chmod +x uninstall.sh
