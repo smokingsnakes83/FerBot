@@ -12,10 +12,11 @@ Se você tem sugestões de funcionalidades, correções de bugs ou deseja colabo
 Mande brasa e bora conversar! 😉
 
 # Como usar?
-```
-git clone https://github.com/smokingsnakes83/FerBot.git ferbot
-```
+
+Copie e cole o seguite comando em seu terminal
 
 ```
+git clone https://github.com/smokingsnakes83/FerBot.git ferbot
+cd ferbot
 ./ferbot
 ```
