@@ -7,10 +7,6 @@ Com o FerBot você pode:
 **Aprender coisas novas de um jeito descontraído e informal.**
 # Como usar o FerBot:
 Basta digitar sua pergunta no campo indicado e o FerBot te responderá prontamente.
-Contribua com o projeto:
-Se você tem sugestões de funcionalidades, correções de bugs ou deseja colaborar, sinta-se à vontade para entrar em contato conosco.
-Mande brasa e bora conversar! 😉
-
 # Como usar?
 
 OBS: Execute apenas em um terminal Linux.
@@ -22,3 +18,6 @@ git clone https://github.com/smokingsnakes83/FerBot.git ferbot
 cd ferbot
 ./ferbot
 ```
+# Contribua com o projeto
+Se você tem sugestões de funcionalidades, correções de bugs ou deseja colaborar, sinta-se à vontade para entrar em contato conosco.
+Mande brasa e bora conversar! 😉
