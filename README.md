@@ -12,10 +12,10 @@ Se você tem sugestões de funcionalidades, correções de bugs ou deseja colabo
 Mande brasa e bora conversar! 😉
 
 # Como usar?
-```bash
+```
 git clone https://github.com/smokingsnakes83/FerBot.git ferbot
-``'''``
+```
 
-```bash
+```
 ./ferbot
 ```
