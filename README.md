@@ -13,7 +13,9 @@ Mande brasa e bora conversar! 😉
 
 # Como usar?
 
-Copie e cole o seguite comando em seu terminal
+OBS: Execute apenas em um terminal Linux.
+
+Copie e cole o seguite comando em seu terminal.
 
 ```
 git clone https://github.com/smokingsnakes83/FerBot.git ferbot
