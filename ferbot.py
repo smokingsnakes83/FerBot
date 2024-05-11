@@ -44,7 +44,7 @@ while prompt != 'bye' and prompt != 'BYE':
     print(f'\n🤖 {response.text} \n')
   else:   
     response = chat.send_message(prompt + 'Seja objetivo nas respostas')
-    print(f'\nResposta: 🤖 {response.text} \n')
+    print(f'\n🤖 Resposta: {response.text} \n')
   
   for c in prompt:
     print('*', end='')
