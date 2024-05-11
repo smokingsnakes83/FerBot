@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 ln -s ~/ferbot/dist/ferbot/ ~/.local/bin
 
