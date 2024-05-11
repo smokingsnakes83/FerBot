@@ -11,3 +11,11 @@ Contribua com o projeto:
 Se você tem sugestões de funcionalidades, correções de bugs ou deseja colaborar, sinta-se à vontade para entrar em contato conosco.
 Mande brasa e bora conversar! 😉
 
+# Como usar?
+'''bash
+git clone https://github.com/smokingsnakes83/FerBot.git ferbot
+'''
+
+'''bash
+./ferbot
+'''
